@@ -1,0 +1,16 @@
+# Maven generated files
+**/target/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE temporary files
+.metadata/

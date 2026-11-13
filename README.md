@@ -156,7 +156,7 @@ cart information.
 <img src="./PaymentService.png" alt="Payment Swagger" width="800">
 
 <h3>Auth Service</h3>
-<img src="./AuthService.png" alt="Auth Swagger" width="800">
+<img src="./Authservice.png" alt="Auth Swagger" width="800">
 
 <h2>7. Key Features</h2>
 <ul>
